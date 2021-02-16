@@ -1,1 +1,1 @@
-Helsingin Yliopiston Full Stack -kurssin kolmannen osan kokonaisversio puhelinluettelo-sovelluksesta. Löytyy [Herokusta](https://protected-caverns-36139.herokuapp.com).
+Helsingin Yliopiston Full Stack -kurssin kolmannen osan kokonaisversio puhelinluettelo-sovelluksesta. (Poistettu Herokusta kurssin jälkeen ilmaisen tilin rajoitteiden vuoksi).
